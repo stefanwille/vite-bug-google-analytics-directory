@@ -1,5 +1,5 @@
 import React from "react";
-import MyComponent from "./GoogleAnalyticsABC/MyComponent";
+import MyComponent from "./GoogleAnalytics/MyComponent";
 
 function App() {
   return (
